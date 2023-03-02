@@ -37,9 +37,9 @@ hourlywage dataset, and logistic regression on the iris dataset. All of these we
 
 ### Built With
 
-* [![Python]][python.org/downloads/]
-* [![JupyterNotebook]][https://jupyter.org/install]
-* [![VisualStudioCode]][https://code.visualstudio.com/download]
+* [Python](python.org/downloads/)
+* [JupyterNotebook](https://jupyter.org/install)
+* [VisualStudioCode](https://code.visualstudio.com/download)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
